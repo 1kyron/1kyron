@@ -1,7 +1,8 @@
 ## Hi there 👋
 Meu nome é Kyron
 
-- 🔭 I’m currently working on ...![Leonardo_Kino_XL_crie_para_mim_um_garoto_hacker_sentado_em_sua_0](https://github.com/user-attachments/assets/8349b57f-be5a-458f-a112-e12f79adb76a)
+![hacker-etico-1280x720](https://github.com/user-attachments/assets/e636e8e6-4d8d-4033-af24-b99fe8ae33f9)
+
 👩‍💻 Cyber Security 
 🏆 CTF Player
 🎥 I share informative content on my Instagram.
