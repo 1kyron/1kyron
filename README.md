@@ -1,5 +1,6 @@
 ## Hi there 👋
-Meu nome é Kyron
+MY NAME IS KYRON 
+
 
 ![hacker-etico-1280x720](https://github.com/user-attachments/assets/e636e8e6-4d8d-4033-af24-b99fe8ae33f9)
 
