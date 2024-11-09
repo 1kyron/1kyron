@@ -1,12 +1,12 @@
 ## Hi there 👋
 MY NAME IS KYRON 
 
+![360_F_557551118_T4rqjRzaJJEqjWrGtHaAICkdDsBQC9Sx](https://github.com/user-attachments/assets/fdf1a3c2-d19b-4048-bd84-7f8b94708483)
 
-![hacker-etico-1280x720](https://github.com/user-attachments/assets/e636e8e6-4d8d-4033-af24-b99fe8ae33f9)
 
-👩‍💻 Cyber Security 
+👩‍💻 Cyber Security  
 🏆 CTF Player
-🎥 I share informative content on my Instagram.
+🎥 I share informative content on my Instagram
 🎓 Speak Portuguese,English,Spanish and little bit Deutsch
 💸 Bug Hunter
 👨‍💻 Offensive Security
